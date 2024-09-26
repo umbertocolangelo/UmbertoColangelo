@@ -18,9 +18,7 @@ Here are some of the technologies and programming languages I have experience wi
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umbertocolangelo&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umbertocolangelo&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/>
 
 ### 📈 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocolangelo&theme=dark&hide_border=false&layout=compact)
