@@ -1,7 +1,7 @@
 # 🌟 Umberto Colangelo - Developer
 
 ## 💻 Tech Stack
-Qui ci sono alcune delle tecnologie e linguaggi di programmazione con cui ho esperienza:
+Here some tools and programming languages I have experience with:
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,8 +34,3 @@ Qui ci sono alcune delle tecnologie e linguaggi di programmazione con cui ho esp
 ## 🌍 Visitors Count
 [![](https://visitcount.itsvg.in/api?id=umbertocolangelo&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-### 📬 Get in Touch!
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [GitHub Profile](https://github.com/umbertocolangelo)
