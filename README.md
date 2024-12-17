@@ -1,4 +1,4 @@
-# 🌟 Umberto Colangelo - Developer 
+# 🌟 Umberto Colangelo - Software Developer
 
 ## 💻 Tech Stack
 Here are some of the technologies and programming languages I have experience with:
