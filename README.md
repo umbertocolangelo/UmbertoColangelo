@@ -1,4 +1,6 @@
-# 🌟 Umberto Colangelo - Computer Science Engineer
+# ⚙️ Umberto Colangelo - Computer Science Engineer
+
+---
 
 ## 💻 Tech Stack
 Here are some of the technologies and programming languages I have experience with:
