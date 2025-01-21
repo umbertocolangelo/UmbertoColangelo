@@ -1,4 +1,5 @@
 # ⚙️ Umberto Colangelo - Computer Science Engineer
+
 ---
 ## 💻 Tech Stack
 Here are some of the technologies and programming languages I have experience with:
@@ -22,7 +23,7 @@ Here are some of the technologies and programming languages I have experience wi
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umbertocolangelo&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umbertocolangelo&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocolangelo&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%"/>
 </div>
 
