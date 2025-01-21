@@ -32,12 +32,6 @@ Here are some of the technologies and programming languages I have experience wi
 
 ---
 
-### 📈 Languages Used
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocolangelo&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🌍 Visitors Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=umbertocolangelo&color=blue&style=flat-square)
