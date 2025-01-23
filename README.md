@@ -1,5 +1,4 @@
 ## 💻 Tech Stack
-Here are some of the technologies and programming languages I have experience with:
 ### Languages & Frameworks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -16,15 +15,10 @@ Here are some of the technologies and programming languages I have experience wi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umbertocolangelo&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocolangelo&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%"/>
 </div>
-
----
 
 ## 🌍 Visitors Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=umbertocolangelo&color=blue&style=flat-square)
