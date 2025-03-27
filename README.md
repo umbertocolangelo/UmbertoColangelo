@@ -21,7 +21,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📄 Curriculum Vitae
-[![Visualizza il mio CV](https://img.shields.io/badge/CV-Click_to_View-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV.pdf)
+[![Visualizza il mio CV](https://img.shields.io/badge/CV-Click_to_View-lightBlue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV.pdf)
 
 ## 📊 GitHub Stats
 <div align="center">
