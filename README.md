@@ -18,7 +18,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📄 Curriculum Vitae
-[![Visualizza il mio CV](https://img.shields.io/badge/CV-Click_to_View-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](main/CV_Umberto_Colangelo.pdf)
+[![Visualizza il mio CV](https://img.shields.io/badge/CV-Click_to_View-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Umberto_Colangelo.pdf)
 
 ## 📊 GitHub Stats
 <div align="center">
